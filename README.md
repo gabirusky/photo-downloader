@@ -2,7 +2,7 @@
 
 Scrape most recent photos from any public instagram username. Saves all photos in png and a zip file.
 
-![](C:\Users\usain\Desktop\app-projects\instagram\imgs\example.gif)
+![](imgs/example.gif)
 
 ## Novas funcionalidades
 
